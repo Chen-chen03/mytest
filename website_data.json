@@ -1,0 +1,57 @@
+{
+  "title": "主页 - 个人网站",
+  "navigation": [
+    {
+      "id": 1,
+      "name": "首页",
+      "url": "/",
+      "is_active": true,
+      "icon": null
+    },
+    {
+      "id": 2,
+      "name": "个人简历生成器",
+      "url": "/resume",
+      "is_active": false,
+      "icon": null
+    },
+    {
+      "id": 3,
+      "name": "项目展示",
+      "url": "/projects",
+      "is_active": false,
+      "icon": null
+    },
+    {
+      "id": 4,
+      "name": "联系我",
+      "url": "/contact",
+      "is_active": false,
+      "icon": null
+    }
+  ],
+  "campus_photo": {
+    "url": "/static/images/campus.jpg",
+    "alt_text": "广西职业师范学院校园风景",
+    "width": 1200,
+    "height": 600,
+    "description": "校园内现代化的教学楼、绿树成荫的道路和蓝天白云"
+  },
+  "school_intro": {
+    "school_name": "广西职业师范学院",
+    "location": "广西",
+    "establishment_year": "1978年",
+    "history": "\n    学校创建于1978年，前身为广西壮族自治区教师进修学校，\n    经过多年发展，已成为区域内重要的职业师范院校。\n    ",
+    "positioning": "\n    以职业教育师资培养为核心，服务地方经济社会发展，\n    培养高素质应用型人才。\n    ",
+    "faculty": "\n    拥有一支高素质的教师队伍，其中教授150余人，副教授300余人，\n    博士学历教师占比35%，双师型教师占比60%。\n    ",
+    "disciplines": "\n    设有教育学院、管理学院、工程学院、信息技术学院等10个二级学院，\n    涵盖教育学、工学、管理学、艺术学等6个学科门类，共45个本科专业。\n    ",
+    "research_achievements": "\n    近年来承担国家级科研项目50余项，省部级项目200余项，\n    获得省部级以上科研成果奖30余项，发表高水平学术论文1000余篇。\n    ",
+    "honors": [
+      "省级文明单位",
+      "教学先进单位",
+      "就业工作先进单位",
+      "创新创业教育示范校"
+    ]
+  },
+  "last_updated": "2025-12-26T09:36:37.009631"
+}
